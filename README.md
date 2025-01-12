@@ -18,6 +18,11 @@ If you can’t find me coding, I’m probably on the basketball court trying to 
 - **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat), ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat), ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visualstudiocode&logoColor=white&style=flat)  
 - **Currently Exploring:** Advanced ML Algorithms: CNN (Convolutional Neural Networks), Decision Trees  
 
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devanandini04&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devanandini04&layout=compact&theme=default)
+
+
 
 <!--
 **Devanandini04/Devanandini04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
