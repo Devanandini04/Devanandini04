@@ -1,4 +1,7 @@
 # 👋 Hello everyone, I'm Devanandini!
+<div id="header" >
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" align="right"/>
+</div>
 
 🌟 **Learner | Machine Learning Enthusiast | Creative Problem Solver**  
 🎓 **Currently student at Intitute of Engineering and Technology Lucknow**  
@@ -6,9 +9,6 @@
 
 ⚡ **Fun Fact  
 If you can’t find me coding, I’m probably on the basketball court trying to outplay my code! 🏀**  
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" align="right"/>
-</div>
 
 ✨ I am focused on leveraging technology to solve real-world problems and enhance accessibility. My work includes building AI-driven tools and contributing to open-source projects, with the goal of creating practical and inclusive solutions that make a meaningful impact. 🚀  
 
