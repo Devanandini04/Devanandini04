@@ -22,6 +22,10 @@ If you can’t find me coding, I’m probably on the basketball court trying to 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devanandini04&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devanandini04&layout=compact&theme=default)
 
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/devanandini-183853287/)    
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:devanandini4105@gmail.com)
+
 
 
 <!--
