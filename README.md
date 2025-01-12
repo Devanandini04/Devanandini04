@@ -3,7 +3,9 @@
 🌟 **Learner | Machine Learning Enthusiast | Creative Problem Solver**  
 🎓 **Currently student at Intitute of Engineering and Technology Lucknow**  
 💻 **Driven by a passion for turning ideas into impactful solutions.**
+
 😄 **Pronouns: She/her**
+
 ⚡ **Fun Fact  
 If you can’t find me coding, I’m probably on the basketball court trying to outplay my code! 🏀**  
 
