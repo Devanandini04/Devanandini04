@@ -12,11 +12,11 @@ If you can’t find me coding, I’m probably on the basketball court trying to 
 
 ✨ I am focused on leveraging technology to solve real-world problems and enhance accessibility. My work includes building AI-driven tools and contributing to open-source projects, with the goal of creating practical and inclusive solutions that make a meaningful impact. 🚀  
 
-## 🛠️ My Tech Stack
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat), ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat), ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)  
-- **Libraries/Frameworks:** ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat), ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat), ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)  
-- **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat), ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat), ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visualstudiocode&logoColor=white&style=flat)  
-- **Currently Exploring:** Advanced ML Algorithms: CNN (Convolutional Neural Networks), Decision Trees  
+### 🛠️ My Tech Stack
+* **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat),![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat), ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat), ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat) 
+* **Libraries/Frameworks:** ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat), ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat), ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat), ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat), ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+* **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat), ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat), ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visualstudiocode&logoColor=white&style=flat), ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat), ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFB21C?logo=huggingface&logoColor=white&style=flat)
+* **Currently Exploring:** LLMs, Transformers and GenAI (Langchain, RAG)
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devanandini04&show_icons=true&theme=default)  
